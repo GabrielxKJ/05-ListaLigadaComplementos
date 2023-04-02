@@ -14,7 +14,7 @@ Faça um **fork** deste repositório e realize as seguintes atividades:
 
 Projeto ListaLigada
 
-- [ ] Altere a função inserirElemento de maneira que seja usado  um ponteiro para o último elemento.
+- [x] Altere a função inserirElemento de maneira que seja usado  um ponteiro para o último elemento.
 
 
 Projeto ListaLigadaOrdenada
